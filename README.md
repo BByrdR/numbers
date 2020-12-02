@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Brian Byrd
+2. Student ID: 2373943
+3. Email: BByrd@chapman.edu
+4. Class: CPSC and CENG 298-02
 5. Assignment: numbers 
 
 ## Application Purpose
